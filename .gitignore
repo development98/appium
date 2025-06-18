@@ -1,0 +1,50 @@
+# Node modules
+node_modules/
+
+# Appium logs
+*.log
+
+# WebdriverIO Allure reports
+allure-results/
+allure-report/
+
+# Compiled output
+dist/
+build/
+
+# Android APK or extracted app content (optional)
+*.apk
+app/android/todolist-scheduleplanner-dailyplanner-todo-reminders.apk
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.env.local
+.env.test
+
+# IDE config
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# NPM debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac/Linux swap files
+*.swp
+*.swo
