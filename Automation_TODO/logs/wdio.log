@@ -1,0 +1,10 @@
+[2025-06-18T14:31:01.767] [ERROR] default - Task Should not be empty!!!!
+[2025-06-18T18:20:51.483] [ERROR] default - Task Should not be empty!!!!
+[2025-06-18T18:20:59.500] [INFO] default - The Add button is clickable
+[2025-06-18T19:11:34.831] [ERROR] default - Add button is not clickable
+[2025-06-18T19:30:48.634] [INFO] default - The Add button is clickable
+[2025-06-19T12:15:42.858] [ERROR] default - Unable to Add Empty Task Msg Should be Displayed!!!!
+[2025-06-19T12:16:44.398] [ERROR] default - Unable to Add Empty Task Msg Should be Displayed!!!!
+[2025-06-19T12:55:59.716] [ERROR] default - Unable to Add Empty Task Msg Should be Displayed!!!!
+[2025-06-19T13:56:18.481] [ERROR] default - Unable to Add Empty Task Msg Should be Displayed!!!!
+[2025-06-19T13:58:36.077] [ERROR] default - Unable to Add Empty Task Msg Should be Displayed!!!!
